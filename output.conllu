@@ -26,7 +26,7 @@
 # newpar
 # sent_id = 1
 # text = “data breach”
-1	“data	“data	DET	IND-SG	Definite=Ind|PronType=Art	2	det	_	_
+1	“data	“data	NOUN	PL-NOM	Number=Sing	2	compound	_	_
 2	breach”	breach”	NOUN	SG-NOM	Number=Sing	0	root	_	SpacesAfter=\n
 
 # newdoc
